@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Thebossofyoutube
-- 👀 I’m interested in helping people like you
-- 🌱 I’m currently learning how to create a discord all in one bot
-- 💞️ I’m looking to collaborate wtih you guys
-- 📫 How to reach me? join my discord server
+hey i am @thebossofyoutube
+i am a basic coder 
+i am currently developing a discord multipurpose bot
+i am also a youtuber
+i dont create much repositories
+that all about me
+if you want to reach me search on youtube The Boss Of Youtbe i even have discord find it there
 
 <!---
 Thebossofyoutube/Thebossofyoutube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
